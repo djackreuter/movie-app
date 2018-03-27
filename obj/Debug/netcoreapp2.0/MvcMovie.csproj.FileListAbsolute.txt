@@ -1,0 +1,10 @@
+/home/jack/Documents/projects/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.deps.json
+/home/jack/Documents/projects/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.json
+/home/jack/Documents/projects/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.dev.json
+/home/jack/Documents/projects/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.dll
+/home/jack/Documents/projects/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.pdb
+/home/jack/Documents/projects/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csproj.CoreCompileInputs.cache
+/home/jack/Documents/projects/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfoInputs.cache
+/home/jack/Documents/projects/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
+/home/jack/Documents/projects/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
+/home/jack/Documents/projects/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb
